@@ -3,3 +3,5 @@ An android application which allows users to read fifteen different stories (~20
 App launched by interactive animation.
 
 All featured work is the full intellectual property of the authors.
+
+![Alt Text](https://media.giphy.com/media/f7aCNc3gsnh3MflDLJ/giphy.gif)
