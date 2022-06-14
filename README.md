@@ -4,4 +4,5 @@ App launched by interactive animation.
 
 All featured work is the full intellectual property of the authors.
 
+### App Demo
 ![Alt Text](https://media.giphy.com/media/f7aCNc3gsnh3MflDLJ/giphy.gif)
